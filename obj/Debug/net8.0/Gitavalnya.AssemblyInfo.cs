@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Gitavalnya")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aa1d0b015cb6b55f8213f40e5daae357067f309a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dba17ce1236fa127d873c72478030f498f09580f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Gitavalnya")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Gitavalnya")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
